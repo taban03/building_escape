@@ -1,0 +1,9 @@
+*/Build
+*/Binaries/
+*/Intermediate
+*/Saved
+*/Content/StarterContent/
+*.VC.db
+.idea
+.vscode
+BuildingEscape.code-workspace
